@@ -1,0 +1,11 @@
+.app{
+padding:40px;
+font-family:sans-serif;
+}
+
+.card{
+padding:20px;
+margin:20px 0;
+border:1px solid #ddd;
+border-radius:14px;
+}
