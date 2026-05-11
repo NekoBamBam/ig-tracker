@@ -4,15 +4,6 @@ Una mini app fullstack para analizar seguidores de Instagram: detectar **quién 
 
 ---
 
-## 🚀 Demo (local)
-
-La app corre en dos partes:
-
-* Frontend: http://localhost:3000
-* Backend API: http://localhost:3001
-
----
-
 ## 🧠 ¿Qué hace?
 
 * 🔍 Scrapea tu lista de seguidores automáticamente
