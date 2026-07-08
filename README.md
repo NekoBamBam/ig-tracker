@@ -32,36 +32,6 @@ Una mini app fullstack para analizar seguidores de Instagram: detectar **quién 
 
 ---
 
-## 🧪 Cómo probar unfollows
-
-### Método real:
-
-1. Ejecutar "Actualizar seguidores"
-2. Que alguien te deje de seguir
-3. Volver a ejecutar
-4. Se detecta automáticamente
-
----
-
-### Método rápido:
-
-Editar manualmente `followers.json` y borrar un usuario para simular unfollow.
-
----
-
-## ⚡ Features actuales
-
-* [x] Scraping de seguidores
-* [x] Login persistente
-* [x] Snapshot de followers
-* [x] Comparación de listas
-* [x] Detección de unfollows
-* [x] Dashboard React
-* [x] Botón que ejecuta scraping real
-* [x] Loading state en UI
-
----
-
 ## 🚧 Próximas mejoras
 
 * 📊 Gráficos de crecimiento
