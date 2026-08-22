@@ -46,13 +46,3 @@ Una mini app fullstack para analizar seguidores de Instagram: detectar **quién 
 
 Este proyecto usa scraping con fines educativos y personales.
 No está afiliado a Instagram.
-
----
-
-
-## 💡 Notas
-
-Este proyecto empezó como una idea simple (ver quién deja de seguir)
-y terminó siendo una app fullstack con scraping, backend y UI.
-
----
